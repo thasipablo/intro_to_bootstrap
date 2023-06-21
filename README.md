@@ -6,7 +6,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [� Getting Started ](#-getting-started-)
+  - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
@@ -61,7 +61,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:thasipablo/Personal-Portfolio.git
+  git clone git@github.com:thasipablo/intro_to_bootstrap.git
 ```
 
 ### Run tests
@@ -82,7 +82,7 @@ To run tests, run the following command:
 
 - GitHub: [@thasipablo](https://github.com/thasipablo)
 - Twitter: [@thasipablo](https://twitter.com/thasipablo_)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/thasipablo)
+- LinkedIn: [thasipablo](https://linkedin.com/in/thasipablo)
 
 
 <!-- CONTRIBUTING -->
@@ -110,6 +110,6 @@ I would like to thank all my code partners, and all reviewers
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md).
+This project is [MIT](./LICENSE.md) licenced.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
